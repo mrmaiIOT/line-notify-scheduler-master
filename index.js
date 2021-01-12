@@ -23,7 +23,7 @@ var options = {
 }
 
 // Test
-console.log('Test');
+//console.log('Test');
 
 // Check Alert Coundown
 if(checkCountDownEnd(date_travel)){
